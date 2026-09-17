@@ -1,10 +1,10 @@
-# InclusiAid
+# InclusiAi
 
 ### Empowering Independence Through AI
 
-InclusiAid is an **AI-powered accessibility platform** designed to make everyday digital and real-world interactions more accessible for people with different accessibility needs.
+InclusiAi is an **AI-powered accessibility platform** designed to make everyday digital and real-world interactions more accessible for people with different accessibility needs.
 
-Instead of functioning as a generic AI chatbot, InclusiAid organizes AI capabilities around accessibility-focused workflows such as **vision assistance, hearing support, cognitive assistance, speech/AAC communication, motor assistance, voice interaction, and emergency support**.
+Instead of functioning as a generic AI chatbot, InclusiAi organizes AI capabilities around accessibility-focused workflows such as **vision assistance, hearing support, cognitive assistance, speech/AAC communication, motor assistance, voice interaction, and emergency support**.
 
 The platform combines multimodal AI with accessible interfaces to help users understand, communicate, navigate, and interact more independently.
 
@@ -122,7 +122,7 @@ Features include:
 
 ## 👤 Accessibility Profiles
 
-InclusiAid supports accessibility-oriented user profiles so the interface can adapt to different user requirements.
+InclusiAi supports accessibility-oriented user profiles so the interface can adapt to different user requirements.
 
 Supported profile concepts include:
 
@@ -142,7 +142,7 @@ Profile-based feature access is handled through the application's feature guard 
 
 # 🧠 AI Architecture
 
-InclusiAid uses a provider-based AI architecture.
+InclusiAi uses a provider-based AI architecture.
 
 Instead of connecting every feature directly to a specific AI service, the application uses a common AI provider interface.
 
@@ -350,7 +350,7 @@ InclusiAI-main/
 
 # ♿ Accessibility First
 
-Accessibility is a core architectural principle of InclusiAid.
+Accessibility is a core architectural principle of InclusiAi.
 
 The application includes dedicated accessibility components and configuration for:
 
@@ -384,7 +384,7 @@ However, actual accessibility compliance should be verified through both automat
 
 # 📱 Progressive Web App
 
-InclusiAid includes PWA functionality so that the application can behave more like an installable application.
+InclusiAi includes PWA functionality so that the application can behave more like an installable application.
 
 PWA-related files include:
 
@@ -404,7 +404,7 @@ The application manifest provides:
 
 # 🖥️ Desktop Application
 
-InclusiAid also includes Electron support.
+InclusiAi also includes Electron support.
 
 Electron files:
 
@@ -436,7 +436,7 @@ config/branding.ts
 
 Current branding:
 
-**Name:** InclusiAid
+**Name:** InclusiAi
 
 **Tagline:** Empowering Independence Through AI
 
@@ -614,7 +614,7 @@ The overall architecture can be represented as:
 
 # 🗃️ State Management
 
-InclusiAid uses Zustand to separate state by functional domain.
+InclusiAi uses Zustand to separate state by functional domain.
 
 Examples include:
 
@@ -643,7 +643,7 @@ This allows individual feature modules to manage their own state while keeping t
 
 # 🔒 Security Considerations
 
-Because InclusiAid can process potentially sensitive information such as images, audio, communication data and emergency contacts, security should be treated as a core requirement.
+Because InclusiAi can process potentially sensitive information such as images, audio, communication data and emergency contacts, security should be treated as a core requirement.
 
 Production deployments should verify:
 
@@ -679,7 +679,7 @@ For safety-critical functionality, deterministic fallback mechanisms should alwa
 
 # 🔏 Privacy
 
-InclusiAid may process information such as:
+InclusiAi may process information such as:
 
 * Images
 * Camera input
@@ -836,7 +836,7 @@ Do not claim a license unless a corresponding license file has been added to the
 
 # 🌍 Vision
 
-InclusiAid aims to make artificial intelligence more accessible by placing AI capabilities inside interfaces designed around people's accessibility needs.
+InclusiAi aims to make artificial intelligence more accessible by placing AI capabilities inside interfaces designed around people's accessibility needs.
 
 The goal is simple:
 
@@ -852,4 +852,4 @@ The project contains a broad accessibility architecture with multiple AI-powered
 
 ---
 
-**InclusiAid — Empowering Independence Through AI**
+**InclusiAi — Empowering Independence Through AI**
