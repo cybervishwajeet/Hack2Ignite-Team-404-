@@ -6,5 +6,6 @@ An AI-powered accessibility assistant designed to help people with different dis
 
 - **Frontend:** Next.js 14+, TypeScript, Tailwind CSS
 - **Backend:** Python 
-- **AI:** Google Gemini API
-- **Desktop:** Electron
+- **AI:** Google Gemini API, Antigravity
+- **Desktop:** Electron.js
+
