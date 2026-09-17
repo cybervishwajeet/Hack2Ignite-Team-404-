@@ -1,0 +1,55 @@
+InclusiAI — structure-only skeleton
+
+All source/config/document files have been intentionally removed.
+Empty directories contain .gitkeep so Git can track the structure.
+
+app/
+  (auth)/
+    login/
+    signup/
+  (dashboard)/
+    admin/
+    cognitive/
+    dashboard/
+    emergency/
+    hearing/
+    motor/
+    settings/
+    speech/
+    vision/
+    voice-assistant/
+  (onboarding)/
+    profile-selection/
+  api/
+    ai/
+components/
+  accessibility/
+  admin/
+  branding/
+  dashboard/
+  features/
+    CognitiveAssistant/
+    Dashboard/
+    Emergency/
+    HearingAssistant/
+    MotorAssistant/
+    PhoneControl/
+    SettingsPanel/
+    SpeechAssistant/
+    VisionAssistant/
+    VoiceAssistant/
+  layout/
+  navigation/
+  onboarding/
+config/
+electron/
+lib/
+  ai/
+  constants/
+  hooks/
+  store/
+  types/
+  utils/
+public/
+scripts/
+types/
