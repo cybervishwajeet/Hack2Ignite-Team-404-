@@ -1,6 +1,4 @@
-InclusiAI — structure-only skeleton
-
-All source/config/document files have been intentionally removed.
+Vision-Bridge — structure-only skeleton
 Empty directories contain .gitkeep so Git can track the structure.
 
 app/
