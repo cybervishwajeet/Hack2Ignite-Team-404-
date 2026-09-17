@@ -5,8 +5,6 @@ An AI-powered accessibility assistant designed to help people with different dis
 ## 🛠️ Tech Stack
 
 - **Frontend:** Next.js 14+, TypeScript, Tailwind CSS
-- **UI:** shadcn/ui
-- **State:** Zustand, React Query
+- **Backend:** Python 
 - **AI:** Google Gemini API
-- **PWA:** Service Worker & Offline Support
 - **Desktop:** Electron
